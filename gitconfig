@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = n.p.lavrentidis@gmail.com
+	name = Filippos Lavrentidis
